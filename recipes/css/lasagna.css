@@ -1,3 +1,11 @@
 body {
-    line-height: 1.4;
+    background-image: url(../img/Chef_Flatline.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+    color: rgb(146, 231, 17);
+}
+
+aside {
+    float: right;
 }

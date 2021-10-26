@@ -1,0 +1,14 @@
+section {
+    float: left;
+    width: 50%;
+}
+
+aside {
+    float: right;
+    width: 50%;
+}
+
+
+.crab1 {
+    size: 5000px;
+}
