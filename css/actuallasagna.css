@@ -1,0 +1,23 @@
+body {
+    color: turquoise;
+    background: linear-gradient(180deg, #cd212a , #008c45 )
+ 
+}
+
+.main {
+    text-align: center;
+ 
+}
+
+.main img {
+    border-radius: 100px;
+}
+
+header img {
+    height: 100px;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-left: 850px;
+}
