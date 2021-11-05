@@ -1,3 +1,4 @@
+
 body {
     background: linear-gradient(135deg, #DA291C, #FFC72C);
     height: 100vh;
@@ -5,6 +6,7 @@ body {
 
 header {
     text-align: center;
+    color: aqua;
 }
 
 
